@@ -34,4 +34,3 @@ INSERT INTO book_lease (copy_id, customer_id, lease_date, lease_period, return_d
     (3, 4, '2024-04-11', '2_weeks', '2024-04-25'),
     (1, 2, '2025-04-21', '2_weeks', NULL),
     (4, 3, '2025-04-20', '1_week', NULL);
-
